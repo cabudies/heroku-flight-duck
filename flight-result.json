@@ -1,0 +1,1180 @@
+{
+    "message": "Found 47 results",
+    "list": [
+        {
+            "origin_station": "Melbourne Avalon",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "06:00 AM"
+            },
+            "arrival": {
+                "date": "2021-06-20",
+                "time": "05:42 PM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 1,
+                "minutes": 42
+            },
+            "number_of_stops": 2,
+            "carriers": "Jetstar",
+            "price": 1716,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Ft2au%2F1%2F9648.12712.2021-06-20%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%7C-32166%7C602%7C9648%7C2021-06-20T06%3A00%7C16692%7C2021-06-20T07%3A25%7C85%7C-%7C-%7C-%3Bflight%7C-31722%7C870%7C16692%7C2021-06-20T10%3A30%7C16216%7C2021-06-20T07%3A00%7C810%7C-%7C-%7C-%3Bflight%7C-31722%7C520%7C16216%7C2021-06-20T09%3A05%7C12712%7C2021-06-20T17%3A42%7C337%7C-%7C-%7C-%26carriers%3D-32166%2C-31722%26operators%3D-32166%3B-31722%3B-31722%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D1716.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mIpMUosFWLmeK0mxczRo6vQ0LWrjc2ISYERALt1B7wcAAAA%7C2595548370302838938%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dtrue",
+            "agent": {
+                "name": "Travel2Be",
+                "image": "https://s1.apideeplink.com/images/websites/t2au.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "06:00 AM"
+            },
+            "arrival": {
+                "date": "2021-06-20",
+                "time": "06:48 PM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 2,
+                "minutes": 48
+            },
+            "number_of_stops": 2,
+            "carriers": "Jetstar",
+            "price": 3595,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Ft2au%2F1%2F13981.12712.2021-06-20%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%7C-32166%7C500%7C13981%7C2021-06-20T06%3A00%7C16692%7C2021-06-20T07%3A25%7C85%7C-%7C-%7C-%3Bflight%7C-31940%7C309%7C16692%7C2021-06-20T09%3A55%7C13416%7C2021-06-20T06%3A45%7C830%7C-%7C-%7C-%3Bflight%7C-31940%7C3107%7C13416%7C2021-06-20T10%3A00%7C12712%7C2021-06-20T18%3A48%7C348%7C-%7C-%7C-%26carriers%3D-32166%2C-31940%26operators%3D-32166%3B-32573%3B-32573%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D3595.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mIpMUosFWLmeK0mxczRo6vQ0LWrjc2ISYERALt1B7wcAAAA%7C-3475028179835168632%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dtrue",
+            "agent": {
+                "name": "Travel2Be",
+                "image": "https://s1.apideeplink.com/images/websites/t2au.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "03:40 PM"
+            },
+            "arrival": {
+                "date": "2021-06-21",
+                "time": "12:35 PM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 10,
+                "minutes": 55
+            },
+            "number_of_stops": 2,
+            "carriers": "Singapore Airlines",
+            "price": 6562,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Ft2au%2F1%2F13981.12712.2021-06-20%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%7C-31876%7C228%7C13981%7C2021-06-20T15%3A40%7C16292%7C2021-06-20T21%3A30%7C470%7C-%7C-%7C-%3Bflight%7C-31876%7C322%7C16292%7C2021-06-20T23%3A30%7C13554%7C2021-06-21T05%3A55%7C805%7C-%7C-%7C-%3Bflight%7C-32317%7C4011%7C13554%7C2021-06-21T09%3A35%7C12712%7C2021-06-21T12%3A35%7C480%7C-%7C-%7C-%26carriers%3D-31876%2C-32317%26operators%3D-31876%3B-31876%3B-32573%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D6562.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mIpMUosFWLmeK0mxczRo6vQ0LWrjc2ISYERALt1B7wcAAAA%7C4779630173557385259%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dtrue",
+            "agent": {
+                "name": "Travel2Be",
+                "image": "https://s1.apideeplink.com/images/websites/t2au.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "05:00 PM"
+            },
+            "arrival": {
+                "date": "2021-06-22",
+                "time": "10:45 PM"
+            },
+            "total_duration": {
+                "days": 2,
+                "hours": 19,
+                "minutes": 45
+            },
+            "number_of_stops": 2,
+            "carriers": "Qantas",
+            "price": 1625.53,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fcath%2F1%2F13981.12712.2021-06-20%2Fair%2Fairli%2Fflights%3Fitinerary%3Dflight%7C-31940%7C470%7C13981%7C2021-06-20T17%3A00%7C16692%7C2021-06-20T18%3A25%7C85%7CVIZZAUNW%7CV%7CAUECOSRHK%3Bflight%7C-32456%7C100%7C16692%7C2021-06-21T14%3A15%7C12191%7C2021-06-21T21%3A30%7C555%7CVIZZAUNW%7CV%7CAUECOSRHK%3Bflight%7C-32456%7C846%7C12191%7C2021-06-22T18%3A50%7C12712%7C2021-06-22T22%3A45%7C955%7CVIZZAUNW%7CV%7CAUECOSRHK%26carriers%3D-31940%2C-32456%26operators%3D-31940%3B-32456%3B-32456%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D1625.53%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mJJTizJEGLmeK0mxczRo6vQ0LWrjc2ISYERAI66YoEcAAAA%7C8787069556000131525%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dfalse",
+            "agent": {
+                "name": "Cathay Pacific",
+                "image": "https://s1.apideeplink.com/images/websites/cath.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Avalon",
+            "destination_station": "New York Newark",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "08:55 PM"
+            },
+            "arrival": {
+                "date": "2021-06-21",
+                "time": "04:41 PM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 9,
+                "minutes": 46
+            },
+            "number_of_stops": 2,
+            "carriers": "Jetstar",
+            "price": 1651,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Ft2au%2F1%2F9648.11442.2021-06-20%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%7C-32166%7C610%7C9648%7C2021-06-20T20%3A55%7C16692%7C2021-06-20T22%3A20%7C85%7C-%7C-%7C-%3Bflight%7C-31722%7C842%7C16692%7C2021-06-21T09%3A30%7C13416%7C2021-06-21T06%3A00%7C810%7C-%7C-%7C-%3Bflight%7C-31722%7C1990%7C13416%7C2021-06-21T08%3A30%7C11442%7C2021-06-21T16%3A41%7C311%7C-%7C-%7C-%26carriers%3D-32166%2C-31722%26operators%3D-32166%3B-31722%3B-31722%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D1651.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mIpMUosFWLmeK0mxczRo6vQ0LWrjc2ISYERALt1B7wcAAAA%7C-4383238483088340506%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dtrue",
+            "agent": {
+                "name": "Travel2Be",
+                "image": "https://s1.apideeplink.com/images/websites/t2au.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Avalon",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "06:00 AM"
+            },
+            "arrival": {
+                "date": "2021-06-20",
+                "time": "11:13 PM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 7,
+                "minutes": 13
+            },
+            "number_of_stops": 2,
+            "carriers": "Jetstar",
+            "price": 3182,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Ft2au%2F1%2F9648.12712.2021-06-20%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%7C-32166%7C602%7C9648%7C2021-06-20T06%3A00%7C16692%7C2021-06-20T07%3A25%7C85%7C-%7C-%7C-%3Bflight%7C-31940%7C309%7C16692%7C2021-06-20T09%3A55%7C13416%7C2021-06-20T06%3A45%7C830%7C-%7C-%7C-%3Bflight%7C-31940%7C4874%7C13416%7C2021-06-20T14%3A30%7C12712%7C2021-06-20T23%3A13%7C343%7C-%7C-%7C-%26carriers%3D-32166%2C-31940%26operators%3D-32166%3B-32573%3B-32573%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D3182.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mIpMUosFWLmeK0mxczRo6vQ0LWrjc2ISYERALt1B7wcAAAA%7C-1631575285637783552%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dtrue",
+            "agent": {
+                "name": "Travel2Be",
+                "image": "https://s1.apideeplink.com/images/websites/t2au.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "02:45 PM"
+            },
+            "arrival": {
+                "date": "2021-06-22",
+                "time": "10:45 PM"
+            },
+            "total_duration": {
+                "days": 2,
+                "hours": 22,
+                "minutes": 0
+            },
+            "number_of_stops": 2,
+            "carriers": "Qantas",
+            "price": 1625.53,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fcath%2F1%2F13981.12712.2021-06-20%2Fair%2Fairli%2Fflights%3Fitinerary%3Dflight%7C-31940%7C452%7C13981%7C2021-06-20T14%3A45%7C16692%7C2021-06-20T16%3A10%7C85%7CVIZZAUNW%7CV%7CAUECOSRHK%3Bflight%7C-32456%7C100%7C16692%7C2021-06-21T14%3A15%7C12191%7C2021-06-21T21%3A30%7C555%7CVIZZAUNW%7CV%7CAUECOSRHK%3Bflight%7C-32456%7C846%7C12191%7C2021-06-22T18%3A50%7C12712%7C2021-06-22T22%3A45%7C955%7CVIZZAUNW%7CV%7CAUECOSRHK%26carriers%3D-31940%2C-32456%26operators%3D-31940%3B-32456%3B-32456%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D1625.53%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mJJTizJEGLmeK0mxczRo6vQ0LWrjc2ISYERAI66YoEcAAAA%7C-8738791865931411196%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dfalse",
+            "agent": {
+                "name": "Cathay Pacific",
+                "image": "https://s1.apideeplink.com/images/websites/cath.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Avalon",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "08:55 PM"
+            },
+            "arrival": {
+                "date": "2021-06-22",
+                "time": "10:45 PM"
+            },
+            "total_duration": {
+                "days": 2,
+                "hours": 15,
+                "minutes": 50
+            },
+            "number_of_stops": 2,
+            "carriers": "Qantas",
+            "price": 8578.98,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fcath%2F1%2F9648.12712.2021-06-20%2Fair%2Fairli%2Fflights%3Fitinerary%3Dflight%7C-31940%7C5610%7C9648%7C2021-06-20T20%3A55%7C16692%7C2021-06-20T22%3A20%7C85%7CYXOW5%7CY%7CAUECOFFHK%3Bflight%7C-32456%7C138%7C16692%7C2021-06-21T20%3A55%7C12191%7C2021-06-22T04%3A10%7C555%7CYXOW5%7CY%7CAUECOFFHK%3Bflight%7C-32456%7C846%7C12191%7C2021-06-22T18%3A50%7C12712%7C2021-06-22T22%3A45%7C955%7CBLXAPOHK%7CB%7CAUECOFFHK%26carriers%3D-31940%2C-32456%26operators%3D-32166%3B-32456%3B-32456%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D8578.98%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mJJTizJEGLmeK0mxczRo6vQ0LWrjc2ISYERAI66YoEcAAAA%7C-297198700523343453%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dfalse",
+            "agent": {
+                "name": "Cathay Pacific",
+                "image": "https://s1.apideeplink.com/images/websites/cath.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "03:00 PM"
+            },
+            "arrival": {
+                "date": "2021-06-22",
+                "time": "10:45 PM"
+            },
+            "total_duration": {
+                "days": 2,
+                "hours": 21,
+                "minutes": 45
+            },
+            "number_of_stops": 2,
+            "carriers": "Qantas",
+            "price": 2503.53,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fcath%2F1%2F13981.12712.2021-06-20%2Fair%2Fairli%2Fflights%3Fitinerary%3Dflight%7C-31940%7C454%7C13981%7C2021-06-20T15%3A00%7C16692%7C2021-06-20T16%3A25%7C85%7CHIZZAUNW%7CH%7CAUECOFFHK%3Bflight%7C-32456%7C100%7C16692%7C2021-06-21T14%3A15%7C12191%7C2021-06-21T21%3A30%7C555%7CHIZZAUNW%7CH%7CAUECOFFHK%3Bflight%7C-32456%7C846%7C12191%7C2021-06-22T18%3A50%7C12712%7C2021-06-22T22%3A45%7C955%7CHIZZAUNW%7CH%7CAUECOFFHK%26carriers%3D-31940%2C-32456%26operators%3D-31940%3B-32456%3B-32456%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D2503.53%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mJJTizJEGLmeK0mxczRo6vQ0LWrjc2ISYERAI66YoEcAAAA%7C7414194246578185818%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dfalse",
+            "agent": {
+                "name": "Cathay Pacific",
+                "image": "https://s1.apideeplink.com/images/websites/cath.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "08:00 PM"
+            },
+            "arrival": {
+                "date": "2021-06-22",
+                "time": "10:45 PM"
+            },
+            "total_duration": {
+                "days": 2,
+                "hours": 16,
+                "minutes": 45
+            },
+            "number_of_stops": 2,
+            "carriers": "Qantas",
+            "price": 1625.53,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fcath%2F1%2F13981.12712.2021-06-20%2Fair%2Fairli%2Fflights%3Fitinerary%3Dflight%7C-31940%7C494%7C13981%7C2021-06-20T20%3A00%7C16692%7C2021-06-20T21%3A25%7C85%7CVIZZAUNW%7CV%7CAUECOSRHK%3Bflight%7C-32456%7C100%7C16692%7C2021-06-21T14%3A15%7C12191%7C2021-06-21T21%3A30%7C555%7CVIZZAUNW%7CV%7CAUECOSRHK%3Bflight%7C-32456%7C846%7C12191%7C2021-06-22T18%3A50%7C12712%7C2021-06-22T22%3A45%7C955%7CVIZZAUNW%7CV%7CAUECOSRHK%26carriers%3D-31940%2C-32456%26operators%3D-31940%3B-32456%3B-32456%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D1625.53%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mJJTizJEGLmeK0mxczRo6vQ0LWrjc2ISYERAI66YoEcAAAA%7C-5932052221887168881%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dfalse",
+            "agent": {
+                "name": "Cathay Pacific",
+                "image": "https://s1.apideeplink.com/images/websites/cath.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "12:00 PM"
+            },
+            "arrival": {
+                "date": "2021-06-21",
+                "time": "07:55 AM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 9,
+                "minutes": 55
+            },
+            "number_of_stops": 2,
+            "carriers": "Qantas",
+            "price": 7029,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Ft2au%2F1%2F13981.12712.2021-06-20%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%7C-31940%7C440%7C13981%7C2021-06-20T12%3A00%7C16692%7C2021-06-20T13%3A25%7C85%7C-%7C-%7C-%3Bflight%7C-31876%7C222%7C16692%7C2021-06-20T15%3A00%7C16292%7C2021-06-20T21%3A20%7C500%7C-%7C-%7C-%3Bflight%7C-31876%7C24%7C16292%7C2021-06-21T01%3A15%7C12712%7C2021-06-21T07%3A55%7C1120%7C-%7C-%7C-%26carriers%3D-31940%2C-31876%26operators%3D-31940%3B-31876%3B-31876%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D7029.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mIpMUosFWLmeK0mxczRo6vQ0LWrjc2ISYERALt1B7wcAAAA%7C-1463919420198372788%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dtrue",
+            "agent": {
+                "name": "Travel2Be",
+                "image": "https://s1.apideeplink.com/images/websites/t2au.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York Newark",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "12:05 PM"
+            },
+            "arrival": {
+                "date": "2021-06-21",
+                "time": "08:08 AM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 10,
+                "minutes": 3
+            },
+            "number_of_stops": 2,
+            "carriers": "Air New Zealand",
+            "price": 2157,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fcaut%2F1%2F13981.11442.2021-06-20%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%7C-32646%7C124%7C13981%7C2021-06-20T12%3A05%7C9393%7C2021-06-20T17%3A30%7C205%7C-%7C-%7C-%3Bflight%7C-32646%7C6%7C9393%7C2021-06-20T19%3A40%7C13416%7C2021-06-20T12%3A45%7C725%7C-%7C-%7C-%3Bflight%7C-31722%7C1102%7C13416%7C2021-06-20T23%3A55%7C11442%7C2021-06-21T08%3A08%7C313%7C-%7C-%7C-%26carriers%3D-32646%2C-31722%26operators%3D-32646%3B-32646%3B-31722%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dtrue%26ticket_price%3D2157.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mJJTiwtEWLmeK0mxczRo6vQ0LWrjc2ISYERAG_BpeocAAAA%7C-2193208336752297554%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dtrue",
+            "agent": {
+                "name": "Trip.com",
+                "image": "https://s1.apideeplink.com/images/websites/caut.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "07:30 PM"
+            },
+            "arrival": {
+                "date": "2021-06-22",
+                "time": "10:45 PM"
+            },
+            "total_duration": {
+                "days": 2,
+                "hours": 17,
+                "minutes": 15
+            },
+            "number_of_stops": 2,
+            "carriers": "Qantas",
+            "price": 1625.53,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fcath%2F1%2F13981.12712.2021-06-20%2Fair%2Fairli%2Fflights%3Fitinerary%3Dflight%7C-31940%7C490%7C13981%7C2021-06-20T19%3A30%7C16692%7C2021-06-20T20%3A55%7C85%7CVIZZAUNW%7CV%7CAUECOSRHK%3Bflight%7C-32456%7C100%7C16692%7C2021-06-21T14%3A15%7C12191%7C2021-06-21T21%3A30%7C555%7CVIZZAUNW%7CV%7CAUECOSRHK%3Bflight%7C-32456%7C846%7C12191%7C2021-06-22T18%3A50%7C12712%7C2021-06-22T22%3A45%7C955%7CVIZZAUNW%7CV%7CAUECOSRHK%26carriers%3D-31940%2C-32456%26operators%3D-31940%3B-32456%3B-32456%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D1625.53%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mJJTizJEGLmeK0mxczRo6vQ0LWrjc2ISYERAI66YoEcAAAA%7C-2266840753809320130%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dfalse",
+            "agent": {
+                "name": "Cathay Pacific",
+                "image": "https://s1.apideeplink.com/images/websites/cath.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "03:30 PM"
+            },
+            "arrival": {
+                "date": "2021-06-22",
+                "time": "10:45 PM"
+            },
+            "total_duration": {
+                "days": 2,
+                "hours": 21,
+                "minutes": 15
+            },
+            "number_of_stops": 2,
+            "carriers": "Qantas",
+            "price": 1625.53,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fcath%2F1%2F13981.12712.2021-06-20%2Fair%2Fairli%2Fflights%3Fitinerary%3Dflight%7C-31940%7C458%7C13981%7C2021-06-20T15%3A30%7C16692%7C2021-06-20T16%3A55%7C85%7CVIZZAUNW%7CV%7CAUECOSRHK%3Bflight%7C-32456%7C100%7C16692%7C2021-06-21T14%3A15%7C12191%7C2021-06-21T21%3A30%7C555%7CVIZZAUNW%7CV%7CAUECOSRHK%3Bflight%7C-32456%7C846%7C12191%7C2021-06-22T18%3A50%7C12712%7C2021-06-22T22%3A45%7C955%7CVIZZAUNW%7CV%7CAUECOSRHK%26carriers%3D-31940%2C-32456%26operators%3D-31940%3B-32456%3B-32456%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D1625.53%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mJJTizJEGLmeK0mxczRo6vQ0LWrjc2ISYERAI66YoEcAAAA%7C3579681558286466126%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dfalse",
+            "agent": {
+                "name": "Cathay Pacific",
+                "image": "https://s1.apideeplink.com/images/websites/cath.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York Newark",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "12:05 PM"
+            },
+            "arrival": {
+                "date": "2021-06-21",
+                "time": "08:08 AM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 10,
+                "minutes": 3
+            },
+            "number_of_stops": 2,
+            "carriers": "Air New Zealand",
+            "price": 1932,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fcaut%2F1%2F13981.11442.2021-06-20%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%7C-32646%7C124%7C13981%7C2021-06-20T12%3A05%7C9393%7C2021-06-20T17%3A30%7C205%7C-%7C-%7C-%3Bflight%7C-32646%7C6%7C9393%7C2021-06-20T19%3A40%7C13416%7C2021-06-20T12%3A45%7C725%7C-%7C-%7C-%3Bflight%7C-32646%7C9510%7C13416%7C2021-06-20T23%3A55%7C11442%7C2021-06-21T08%3A08%7C313%7C-%7C-%7C-%26carriers%3D-32646%26operators%3D-32646%3B-32646%3B-31722%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dtrue%26ticket_price%3D1932.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mJJTiwtEWLmeK0mxczRo6vQ0LWrjc2ISYERAG_BpeocAAAA%7C1798445411764444410%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dtrue",
+            "agent": {
+                "name": "Trip.com",
+                "image": "https://s1.apideeplink.com/images/websites/caut.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "07:35 PM"
+            },
+            "arrival": {
+                "date": "2021-06-21",
+                "time": "03:15 PM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 9,
+                "minutes": 40
+            },
+            "number_of_stops": 2,
+            "carriers": "Qantas",
+            "price": 2479.63,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fqata%2F1%2F13981.12712.2021-06-20%2Fair%2Fairli%2Fflights%3Fitinerary%3Dflight%7C-31940%7C783%7C13981%7C2021-06-20T19%3A35%7C15283%7C2021-06-20T21%3A35%7C240%7CMKAUR1SI%7CM%7CECSFAUR2%3Bflight%7C-31939%7C901%7C15283%7C2021-06-20T23%3A15%7C11089%7C2021-06-21T05%3A25%7C670%7CMKAUR1SI%7CM%7CECSFAUR2%3Bflight%7C-31939%7C701%7C11089%7C2021-06-21T08%3A15%7C12712%7C2021-06-21T15%3A15%7C840%7CMKAUR1SI%7CM%7CECSFAUR2%26carriers%3D-31940%2C-31939%26operators%3D-31940%3B-31939%3B-31939%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D2479.63%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mIpTCxJFGLmmJsrxcyxIlmhoWtXG5sRkwIjAAb1NrUcAAAA%7C-4240010141186206062%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dfalse",
+            "agent": {
+                "name": "Qatar Airways",
+                "image": "https://s1.apideeplink.com/images/websites/qata.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Avalon",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "06:00 AM"
+            },
+            "arrival": {
+                "date": "2021-06-20",
+                "time": "06:48 PM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 2,
+                "minutes": 48
+            },
+            "number_of_stops": 2,
+            "carriers": "Jetstar",
+            "price": 3570,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Ft2au%2F1%2F9648.12712.2021-06-20%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%7C-32166%7C602%7C9648%7C2021-06-20T06%3A00%7C16692%7C2021-06-20T07%3A25%7C85%7C-%7C-%7C-%3Bflight%7C-31940%7C309%7C16692%7C2021-06-20T09%3A55%7C13416%7C2021-06-20T06%3A45%7C830%7C-%7C-%7C-%3Bflight%7C-31940%7C3107%7C13416%7C2021-06-20T10%3A00%7C12712%7C2021-06-20T18%3A48%7C348%7C-%7C-%7C-%26carriers%3D-32166%2C-31940%26operators%3D-32166%3B-32573%3B-32573%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D3570.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mIpMUosFWLmeK0mxczRo6vQ0LWrjc2ISYERALt1B7wcAAAA%7C3399088250545543012%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dtrue",
+            "agent": {
+                "name": "Travel2Be",
+                "image": "https://s1.apideeplink.com/images/websites/t2au.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "06:00 PM"
+            },
+            "arrival": {
+                "date": "2021-06-22",
+                "time": "10:45 PM"
+            },
+            "total_duration": {
+                "days": 2,
+                "hours": 18,
+                "minutes": 45
+            },
+            "number_of_stops": 2,
+            "carriers": "Qantas",
+            "price": 1625.53,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fcath%2F1%2F13981.12712.2021-06-20%2Fair%2Fairli%2Fflights%3Fitinerary%3Dflight%7C-31940%7C478%7C13981%7C2021-06-20T18%3A00%7C16692%7C2021-06-20T19%3A25%7C85%7CVIZZAUNW%7CV%7CAUECOSRHK%3Bflight%7C-32456%7C100%7C16692%7C2021-06-21T14%3A15%7C12191%7C2021-06-21T21%3A30%7C555%7CVIZZAUNW%7CV%7CAUECOSRHK%3Bflight%7C-32456%7C846%7C12191%7C2021-06-22T18%3A50%7C12712%7C2021-06-22T22%3A45%7C955%7CVIZZAUNW%7CV%7CAUECOSRHK%26carriers%3D-31940%2C-32456%26operators%3D-31940%3B-32456%3B-32456%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D1625.53%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mJJTizJEGLmeK0mxczRo6vQ0LWrjc2ISYERAI66YoEcAAAA%7C-6774793791046457583%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dfalse",
+            "agent": {
+                "name": "Cathay Pacific",
+                "image": "https://s1.apideeplink.com/images/websites/cath.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "05:30 PM"
+            },
+            "arrival": {
+                "date": "2021-06-22",
+                "time": "10:45 PM"
+            },
+            "total_duration": {
+                "days": 2,
+                "hours": 19,
+                "minutes": 15
+            },
+            "number_of_stops": 2,
+            "carriers": "Qantas",
+            "price": 1625.53,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fcath%2F1%2F13981.12712.2021-06-20%2Fair%2Fairli%2Fflights%3Fitinerary%3Dflight%7C-31940%7C474%7C13981%7C2021-06-20T17%3A30%7C16692%7C2021-06-20T18%3A55%7C85%7CVIZZAUNW%7CV%7CAUECOSRHK%3Bflight%7C-32456%7C100%7C16692%7C2021-06-21T14%3A15%7C12191%7C2021-06-21T21%3A30%7C555%7CVIZZAUNW%7CV%7CAUECOSRHK%3Bflight%7C-32456%7C846%7C12191%7C2021-06-22T18%3A50%7C12712%7C2021-06-22T22%3A45%7C955%7CVIZZAUNW%7CV%7CAUECOSRHK%26carriers%3D-31940%2C-32456%26operators%3D-31940%3B-32456%3B-32456%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D1625.53%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mJJTizJEGLmeK0mxczRo6vQ0LWrjc2ISYERAI66YoEcAAAA%7C-7836716301762868551%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dfalse",
+            "agent": {
+                "name": "Cathay Pacific",
+                "image": "https://s1.apideeplink.com/images/websites/cath.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "04:05 PM"
+            },
+            "arrival": {
+                "date": "2021-06-22",
+                "time": "10:45 PM"
+            },
+            "total_duration": {
+                "days": 2,
+                "hours": 20,
+                "minutes": 40
+            },
+            "number_of_stops": 2,
+            "carriers": "Qantas",
+            "price": 1625.53,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fcath%2F1%2F13981.12712.2021-06-20%2Fair%2Fairli%2Fflights%3Fitinerary%3Dflight%7C-31940%7C462%7C13981%7C2021-06-20T16%3A05%7C16692%7C2021-06-20T17%3A30%7C85%7CVIZZAUNW%7CV%7CAUECOSRHK%3Bflight%7C-32456%7C100%7C16692%7C2021-06-21T14%3A15%7C12191%7C2021-06-21T21%3A30%7C555%7CVIZZAUNW%7CV%7CAUECOSRHK%3Bflight%7C-32456%7C846%7C12191%7C2021-06-22T18%3A50%7C12712%7C2021-06-22T22%3A45%7C955%7CVIZZAUNW%7CV%7CAUECOSRHK%26carriers%3D-31940%2C-32456%26operators%3D-31940%3B-32456%3B-32456%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D1625.53%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mJJTizJEGLmeK0mxczRo6vQ0LWrjc2ISYERAI66YoEcAAAA%7C-1948529959305655242%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dfalse",
+            "agent": {
+                "name": "Cathay Pacific",
+                "image": "https://s1.apideeplink.com/images/websites/cath.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York Newark",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "06:30 AM"
+            },
+            "arrival": {
+                "date": "2021-06-20",
+                "time": "05:12 PM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 0,
+                "minutes": 42
+            },
+            "number_of_stops": 2,
+            "carriers": "Qantas",
+            "price": 1937,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fcaut%2F1%2F13981.11442.2021-06-20%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%7C-31940%7C406%7C13981%7C2021-06-20T06%3A30%7C16692%7C2021-06-20T07%3A55%7C85%7C-%7C-%7C-%3Bflight%7C-31722%7C870%7C16692%7C2021-06-20T10%3A30%7C16216%7C2021-06-20T07%3A00%7C810%7C-%7C-%7C-%3Bflight%7C-31722%7C2304%7C16216%7C2021-06-20T08%3A45%7C11442%7C2021-06-20T17%3A12%7C327%7C-%7C-%7C-%26carriers%3D-31940%2C-31722%26operators%3D-31940%3B-31722%3B-31722%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dtrue%26ticket_price%3D1937.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mJJTiwtEWLmeK0mxczRo6vQ0LWrjc2ISYERAG_BpeocAAAA%7C5968794783880429537%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dtrue",
+            "agent": {
+                "name": "Trip.com",
+                "image": "https://s1.apideeplink.com/images/websites/caut.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Avalon",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "08:55 PM"
+            },
+            "arrival": {
+                "date": "2021-06-21",
+                "time": "03:56 PM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 9,
+                "minutes": 1
+            },
+            "number_of_stops": 2,
+            "carriers": "Jetstar",
+            "price": 1651,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Ft2au%2F1%2F9648.12712.2021-06-20%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%7C-32166%7C610%7C9648%7C2021-06-20T20%3A55%7C16692%7C2021-06-20T22%3A20%7C85%7C-%7C-%7C-%3Bflight%7C-31722%7C842%7C16692%7C2021-06-21T09%3A30%7C13416%7C2021-06-21T06%3A00%7C810%7C-%7C-%7C-%3Bflight%7C-31722%7C514%7C13416%7C2021-06-21T07%3A30%7C12712%7C2021-06-21T15%3A56%7C326%7C-%7C-%7C-%26carriers%3D-32166%2C-31722%26operators%3D-32166%3B-31722%3B-31722%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D1651.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mIpMUosFWLmeK0mxczRo6vQ0LWrjc2ISYERALt1B7wcAAAA%7C-5497918243977865582%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dtrue",
+            "agent": {
+                "name": "Travel2Be",
+                "image": "https://s1.apideeplink.com/images/websites/t2au.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "05:35 PM"
+            },
+            "arrival": {
+                "date": "2021-06-21",
+                "time": "03:15 PM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 11,
+                "minutes": 40
+            },
+            "number_of_stops": 2,
+            "carriers": "Qantas",
+            "price": 2479.63,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fqata%2F1%2F13981.12712.2021-06-20%2Fair%2Fairli%2Fflights%3Fitinerary%3Dflight%7C-31940%7C779%7C13981%7C2021-06-20T17%3A35%7C15283%7C2021-06-20T19%3A35%7C240%7CMKAUR1SI%7CM%7CECSFAUR2%3Bflight%7C-31939%7C901%7C15283%7C2021-06-20T23%3A15%7C11089%7C2021-06-21T05%3A25%7C670%7CMKAUR1SI%7CM%7CECSFAUR2%3Bflight%7C-31939%7C701%7C11089%7C2021-06-21T08%3A15%7C12712%7C2021-06-21T15%3A15%7C840%7CMKAUR1SI%7CM%7CECSFAUR2%26carriers%3D-31940%2C-31939%26operators%3D-31940%3B-31939%3B-31939%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D2479.63%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mIpTCxJFGLmmJsrxcyxIlmhoWtXG5sRkwIjAAb1NrUcAAAA%7C6479964274349066339%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dfalse",
+            "agent": {
+                "name": "Qatar Airways",
+                "image": "https://s1.apideeplink.com/images/websites/qata.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Avalon",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "03:00 PM"
+            },
+            "arrival": {
+                "date": "2021-06-22",
+                "time": "10:45 PM"
+            },
+            "total_duration": {
+                "days": 2,
+                "hours": 21,
+                "minutes": 45
+            },
+            "number_of_stops": 2,
+            "carriers": "Qantas",
+            "price": 8598.88,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fcath%2F1%2F9648.12712.2021-06-20%2Fair%2Fairli%2Fflights%3Fitinerary%3Dflight%7C-31940%7C5606%7C9648%7C2021-06-20T15%3A00%7C16692%7C2021-06-20T16%3A20%7C80%7CYXOW5%7CY%7CAUECOFFHK%3Bflight%7C-32456%7C100%7C16692%7C2021-06-21T14%3A15%7C12191%7C2021-06-21T21%3A30%7C555%7CYXOW5%7CY%7CAUECOFFHK%3Bflight%7C-32456%7C846%7C12191%7C2021-06-22T18%3A50%7C12712%7C2021-06-22T22%3A45%7C955%7CBLXAPOHK%7CB%7CAUECOFFHK%26carriers%3D-31940%2C-32456%26operators%3D-32166%3B-32456%3B-32456%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D8598.88%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mJJTizJEGLmeK0mxczRo6vQ0LWrjc2ISYERAI66YoEcAAAA%7C4291706190627336905%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dfalse",
+            "agent": {
+                "name": "Cathay Pacific",
+                "image": "https://s1.apideeplink.com/images/websites/cath.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York Newark",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "06:00 AM"
+            },
+            "arrival": {
+                "date": "2021-06-20",
+                "time": "05:12 PM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 1,
+                "minutes": 12
+            },
+            "number_of_stops": 2,
+            "carriers": "Jetstar",
+            "price": 1741,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Ft2au%2F1%2F13981.11442.2021-06-20%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%7C-32166%7C500%7C13981%7C2021-06-20T06%3A00%7C16692%7C2021-06-20T07%3A25%7C85%7C-%7C-%7C-%3Bflight%7C-31722%7C870%7C16692%7C2021-06-20T10%3A30%7C16216%7C2021-06-20T07%3A00%7C810%7C-%7C-%7C-%3Bflight%7C-31722%7C2304%7C16216%7C2021-06-20T08%3A45%7C11442%7C2021-06-20T17%3A12%7C327%7C-%7C-%7C-%26carriers%3D-32166%2C-31722%26operators%3D-32166%3B-31722%3B-31722%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D1741.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mIpMUosFWLmeK0mxczRo6vQ0LWrjc2ISYERALt1B7wcAAAA%7C5470579814026469611%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dtrue",
+            "agent": {
+                "name": "Travel2Be",
+                "image": "https://s1.apideeplink.com/images/websites/t2au.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "12:00 PM"
+            },
+            "arrival": {
+                "date": "2021-06-21",
+                "time": "07:55 AM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 9,
+                "minutes": 55
+            },
+            "number_of_stops": 2,
+            "carriers": "Virgin Australia",
+            "price": 7019,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Ft2au%2F1%2F13981.12712.2021-06-20%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%7C-31694%7C841%7C13981%7C2021-06-20T12%3A00%7C16692%7C2021-06-20T13%3A25%7C85%7C-%7C-%7C-%3Bflight%7C-31876%7C222%7C16692%7C2021-06-20T15%3A00%7C16292%7C2021-06-20T21%3A20%7C500%7C-%7C-%7C-%3Bflight%7C-31876%7C24%7C16292%7C2021-06-21T01%3A15%7C12712%7C2021-06-21T07%3A55%7C1120%7C-%7C-%7C-%26carriers%3D-31694%2C-31876%26operators%3D-31694%3B-31876%3B-31876%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D7019.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mIpMUosFWLmeK0mxczRo6vQ0LWrjc2ISYERALt1B7wcAAAA%7C228007176819967771%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dtrue",
+            "agent": {
+                "name": "Travel2Be",
+                "image": "https://s1.apideeplink.com/images/websites/t2au.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "06:30 AM"
+            },
+            "arrival": {
+                "date": "2021-06-20",
+                "time": "11:13 PM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 6,
+                "minutes": 43
+            },
+            "number_of_stops": 2,
+            "carriers": "Qantas",
+            "price": 3581,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Ft2au%2F1%2F13981.12712.2021-06-20%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%7C-31940%7C406%7C13981%7C2021-06-20T06%3A30%7C16692%7C2021-06-20T07%3A55%7C85%7C-%7C-%7C-%3Bflight%7C-31940%7C309%7C16692%7C2021-06-20T09%3A55%7C13416%7C2021-06-20T06%3A45%7C830%7C-%7C-%7C-%3Bflight%7C-31940%7C4874%7C13416%7C2021-06-20T14%3A30%7C12712%7C2021-06-20T23%3A13%7C343%7C-%7C-%7C-%26carriers%3D-31940%26operators%3D-31940%3B-32573%3B-32573%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D3581.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mIpMUosFWLmeK0mxczRo6vQ0LWrjc2ISYERALt1B7wcAAAA%7C2376610820980304947%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dtrue",
+            "agent": {
+                "name": "Travel2Be",
+                "image": "https://s1.apideeplink.com/images/websites/t2au.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "11:35 PM"
+            },
+            "arrival": {
+                "date": "2021-06-22",
+                "time": "09:37 AM"
+            },
+            "total_duration": {
+                "days": 2,
+                "hours": 0,
+                "minutes": 2
+            },
+            "number_of_stops": 2,
+            "carriers": "Singapore Airlines",
+            "price": 2611,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fcaut%2F1%2F13981.12712.2021-06-20%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%7C-31876%7C218%7C13981%7C2021-06-20T23%3A35%7C16292%7C2021-06-21T05%3A30%7C475%7C-%7C-%7C-%3Bflight%7C-31876%7C38%7C16292%7C2021-06-21T19%3A55%7C13416%7C2021-06-21T20%3A50%7C955%7C-%7C-%7C-%3Bflight%7C-31876%7C1499%7C13416%7C2021-06-22T00%3A59%7C12712%7C2021-06-22T09%3A37%7C338%7C-%7C-%7C-%26carriers%3D-31876%26operators%3D-31876%3B-31876%3B-32171%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dtrue%26ticket_price%3D2611.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mJJTiwtEWLmeK0mxczRo6vQ0LWrjc2ISYERAG_BpeocAAAA%7C3534983745164996585%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dtrue",
+            "agent": {
+                "name": "Trip.com",
+                "image": "https://s1.apideeplink.com/images/websites/caut.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "09:15 PM"
+            },
+            "arrival": {
+                "date": "2021-06-22",
+                "time": "10:45 PM"
+            },
+            "total_duration": {
+                "days": 2,
+                "hours": 15,
+                "minutes": 30
+            },
+            "number_of_stops": 2,
+            "carriers": "Virgin Australia",
+            "price": 8578.24,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fcath%2F1%2F13981.12712.2021-06-20%2Fair%2Fairli%2Fflights%3Fitinerary%3Dflight%7C-31694%7C899%7C13981%7C2021-06-20T21%3A15%7C16692%7C2021-06-20T22%3A40%7C85%7CYXOW5%7CT%7CAUECOFFHK%3Bflight%7C-32456%7C138%7C16692%7C2021-06-21T20%3A55%7C12191%7C2021-06-22T04%3A10%7C555%7CYXOW5%7CY%7CAUECOFFHK%3Bflight%7C-32456%7C846%7C12191%7C2021-06-22T18%3A50%7C12712%7C2021-06-22T22%3A45%7C955%7CBLXAPOHK%7CB%7CAUECOFFHK%26carriers%3D-31694%2C-32456%26operators%3D-31694%3B-32456%3B-32456%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D8578.24%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mJJTizJEGLmeK0mxczRo6vQ0LWrjc2ISYERAI66YoEcAAAA%7C-9086715367796114618%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dfalse",
+            "agent": {
+                "name": "Cathay Pacific",
+                "image": "https://s1.apideeplink.com/images/websites/cath.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York Newark",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "12:05 PM"
+            },
+            "arrival": {
+                "date": "2021-06-21",
+                "time": "07:13 AM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 9,
+                "minutes": 8
+            },
+            "number_of_stops": 2,
+            "carriers": "Air New Zealand",
+            "price": 2176,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Ft2au%2F1%2F13981.11442.2021-06-20%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%7C-32646%7C124%7C13981%7C2021-06-20T12%3A05%7C9393%7C2021-06-20T17%3A30%7C205%7C-%7C-%7C-%3Bflight%7C-32646%7C6%7C9393%7C2021-06-20T19%3A40%7C13416%7C2021-06-20T12%3A45%7C725%7C-%7C-%7C-%3Bflight%7C-31722%7C460%7C13416%7C2021-06-20T23%3A00%7C11442%7C2021-06-21T07%3A13%7C313%7C-%7C-%7C-%26carriers%3D-32646%2C-31722%26operators%3D-32646%3B-32646%3B-31722%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D2176.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mIpMUosFWLmeK0mxczRo6vQ0LWrjc2ISYERALt1B7wcAAAA%7C5052907742211211142%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dtrue",
+            "agent": {
+                "name": "Travel2Be",
+                "image": "https://s1.apideeplink.com/images/websites/t2au.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Avalon",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "07:15 PM"
+            },
+            "arrival": {
+                "date": "2021-06-22",
+                "time": "10:45 PM"
+            },
+            "total_duration": {
+                "days": 2,
+                "hours": 17,
+                "minutes": 30
+            },
+            "number_of_stops": 2,
+            "carriers": "Qantas",
+            "price": 8598.88,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fcath%2F1%2F9648.12712.2021-06-20%2Fair%2Fairli%2Fflights%3Fitinerary%3Dflight%7C-31940%7C5608%7C9648%7C2021-06-20T19%3A15%7C16692%7C2021-06-20T20%3A35%7C80%7CYXOW5%7CY%7CAUECOFFHK%3Bflight%7C-32456%7C100%7C16692%7C2021-06-21T14%3A15%7C12191%7C2021-06-21T21%3A30%7C555%7CYXOW5%7CY%7CAUECOFFHK%3Bflight%7C-32456%7C846%7C12191%7C2021-06-22T18%3A50%7C12712%7C2021-06-22T22%3A45%7C955%7CBLXAPOHK%7CB%7CAUECOFFHK%26carriers%3D-31940%2C-32456%26operators%3D-32166%3B-32456%3B-32456%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D8598.88%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mJJTizJEGLmeK0mxczRo6vQ0LWrjc2ISYERAI66YoEcAAAA%7C-7606600457985152249%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dfalse",
+            "agent": {
+                "name": "Cathay Pacific",
+                "image": "https://s1.apideeplink.com/images/websites/cath.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "06:30 AM"
+            },
+            "arrival": {
+                "date": "2021-06-20",
+                "time": "06:48 PM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 2,
+                "minutes": 18
+            },
+            "number_of_stops": 2,
+            "carriers": "Qantas",
+            "price": 3965,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Ft2au%2F1%2F13981.12712.2021-06-20%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%7C-31940%7C406%7C13981%7C2021-06-20T06%3A30%7C16692%7C2021-06-20T07%3A55%7C85%7C-%7C-%7C-%3Bflight%7C-31940%7C309%7C16692%7C2021-06-20T09%3A55%7C13416%7C2021-06-20T06%3A45%7C830%7C-%7C-%7C-%3Bflight%7C-31940%7C3107%7C13416%7C2021-06-20T10%3A00%7C12712%7C2021-06-20T18%3A48%7C348%7C-%7C-%7C-%26carriers%3D-31940%26operators%3D-31940%3B-32573%3B-32573%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D3965.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mIpMUosFWLmeK0mxczRo6vQ0LWrjc2ISYERALt1B7wcAAAA%7C2594532762959480231%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dtrue",
+            "agent": {
+                "name": "Travel2Be",
+                "image": "https://s1.apideeplink.com/images/websites/t2au.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York Newark",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "12:05 PM"
+            },
+            "arrival": {
+                "date": "2021-06-21",
+                "time": "06:44 PM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 20,
+                "minutes": 39
+            },
+            "number_of_stops": 2,
+            "carriers": "Air New Zealand",
+            "price": 1982,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Ft2au%2F1%2F13981.11442.2021-06-20%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%7C-32646%7C124%7C13981%7C2021-06-20T12%3A05%7C9393%7C2021-06-20T17%3A30%7C205%7C-%7C-%7C-%3Bflight%7C-32646%7C6%7C9393%7C2021-06-20T19%3A40%7C13416%7C2021-06-20T12%3A45%7C725%7C-%7C-%7C-%3Bflight%7C-31722%7C1778%7C13416%7C2021-06-21T10%3A15%7C11442%7C2021-06-21T18%3A44%7C329%7C-%7C-%7C-%26carriers%3D-32646%2C-31722%26operators%3D-32646%3B-32646%3B-31722%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D1982.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mIpMUosFWLmeK0mxczRo6vQ0LWrjc2ISYERALt1B7wcAAAA%7C-9073327278840207485%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dtrue",
+            "agent": {
+                "name": "Travel2Be",
+                "image": "https://s1.apideeplink.com/images/websites/t2au.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "02:00 PM"
+            },
+            "arrival": {
+                "date": "2021-06-22",
+                "time": "10:45 PM"
+            },
+            "total_duration": {
+                "days": 2,
+                "hours": 22,
+                "minutes": 45
+            },
+            "number_of_stops": 2,
+            "carriers": "Qantas",
+            "price": 1918.53,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fcath%2F1%2F13981.12712.2021-06-20%2Fair%2Fairli%2Fflights%3Fitinerary%3Dflight%7C-31940%7C448%7C13981%7C2021-06-20T14%3A00%7C16692%7C2021-06-20T15%3A25%7C85%7CMIZZAUNW%7CM%7CAUECOSRHK%3Bflight%7C-32456%7C100%7C16692%7C2021-06-21T14%3A15%7C12191%7C2021-06-21T21%3A30%7C555%7CMIZZAUNW%7CM%7CAUECOSRHK%3Bflight%7C-32456%7C846%7C12191%7C2021-06-22T18%3A50%7C12712%7C2021-06-22T22%3A45%7C955%7CMIZZAUNW%7CM%7CAUECOSRHK%26carriers%3D-31940%2C-32456%26operators%3D-31940%3B-32456%3B-32456%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D1918.53%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mJJTizJEGLmeK0mxczRo6vQ0LWrjc2ISYERAI66YoEcAAAA%7C-919382748679781315%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dfalse",
+            "agent": {
+                "name": "Cathay Pacific",
+                "image": "https://s1.apideeplink.com/images/websites/cath.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "05:45 PM"
+            },
+            "arrival": {
+                "date": "2021-06-21",
+                "time": "03:15 PM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 11,
+                "minutes": 30
+            },
+            "number_of_stops": 2,
+            "carriers": "Virgin Australia",
+            "price": 2186.44,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fqata%2F1%2F13981.12712.2021-06-20%2Fair%2Fairli%2Fflights%3Fitinerary%3Dflight%7C-31694%7C691%7C13981%7C2021-06-20T17%3A45%7C15283%7C2021-06-20T20%3A10%7C265%7CNKAUR1RI%7CT%7CECRRAUR2%3Bflight%7C-31939%7C901%7C15283%7C2021-06-20T23%3A15%7C11089%7C2021-06-21T05%3A25%7C670%7CNKAUR1RI%7CN%7CECRRAUR2%3Bflight%7C-31939%7C701%7C11089%7C2021-06-21T08%3A15%7C12712%7C2021-06-21T15%3A15%7C840%7CNKAUR1RI%7CN%7CECRRAUR2%26carriers%3D-31694%2C-31939%26operators%3D-31694%3B-31939%3B-31939%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D2186.44%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mIpTCxJFGLmmJsrxcyxIlmhoWtXG5sRkwIjAAb1NrUcAAAA%7C-7060469914446748811%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dfalse",
+            "agent": {
+                "name": "Qatar Airways",
+                "image": "https://s1.apideeplink.com/images/websites/qata.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "06:00 PM"
+            },
+            "arrival": {
+                "date": "2021-06-21",
+                "time": "10:15 AM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 6,
+                "minutes": 15
+            },
+            "number_of_stops": 2,
+            "carriers": "Virgin Australia",
+            "price": 2217,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fcaut%2F1%2F13981.12712.2021-06-20%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%7C-31694%7C875%7C13981%7C2021-06-20T18%3A00%7C16692%7C2021-06-20T19%3A25%7C85%7C-%7C-%7C-%3Bflight%7C-32571%7C880%7C16692%7C2021-06-20T20%3A55%7C12234%7C2021-06-21T05%3A30%7C575%7C-%7C-%7C-%3Bflight%7C-32571%7C110%7C12234%7C2021-06-21T10%3A20%7C12712%7C2021-06-21T10%3A15%7C775%7C-%7C-%7C-%26carriers%3D-31694%2C-32571%26operators%3D-31694%3B-32571%3B-32571%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dtrue%26ticket_price%3D2217.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mJJTiwtEWLmeK0mxczRo6vQ0LWrjc2ISYERAG_BpeocAAAA%7C-599115794952769335%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dtrue",
+            "agent": {
+                "name": "Trip.com",
+                "image": "https://s1.apideeplink.com/images/websites/caut.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "04:30 PM"
+            },
+            "arrival": {
+                "date": "2021-06-22",
+                "time": "10:45 PM"
+            },
+            "total_duration": {
+                "days": 2,
+                "hours": 20,
+                "minutes": 15
+            },
+            "number_of_stops": 2,
+            "carriers": "Qantas",
+            "price": 1625.53,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fcath%2F1%2F13981.12712.2021-06-20%2Fair%2Fairli%2Fflights%3Fitinerary%3Dflight%7C-31940%7C466%7C13981%7C2021-06-20T16%3A30%7C16692%7C2021-06-20T17%3A55%7C85%7CVIZZAUNW%7CV%7CAUECOSRHK%3Bflight%7C-32456%7C100%7C16692%7C2021-06-21T14%3A15%7C12191%7C2021-06-21T21%3A30%7C555%7CVIZZAUNW%7CV%7CAUECOSRHK%3Bflight%7C-32456%7C846%7C12191%7C2021-06-22T18%3A50%7C12712%7C2021-06-22T22%3A45%7C955%7CVIZZAUNW%7CV%7CAUECOSRHK%26carriers%3D-31940%2C-32456%26operators%3D-31940%3B-32456%3B-32456%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D1625.53%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mJJTizJEGLmeK0mxczRo6vQ0LWrjc2ISYERAI66YoEcAAAA%7C-466144851693541271%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dfalse",
+            "agent": {
+                "name": "Cathay Pacific",
+                "image": "https://s1.apideeplink.com/images/websites/cath.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "02:30 PM"
+            },
+            "arrival": {
+                "date": "2021-06-22",
+                "time": "10:45 PM"
+            },
+            "total_duration": {
+                "days": 2,
+                "hours": 22,
+                "minutes": 15
+            },
+            "number_of_stops": 2,
+            "carriers": "Qantas",
+            "price": 1625.53,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fcath%2F1%2F13981.12712.2021-06-20%2Fair%2Fairli%2Fflights%3Fitinerary%3Dflight%7C-31940%7C450%7C13981%7C2021-06-20T14%3A30%7C16692%7C2021-06-20T15%3A55%7C85%7CVIZZAUNW%7CV%7CAUECOSRHK%3Bflight%7C-32456%7C100%7C16692%7C2021-06-21T14%3A15%7C12191%7C2021-06-21T21%3A30%7C555%7CVIZZAUNW%7CV%7CAUECOSRHK%3Bflight%7C-32456%7C846%7C12191%7C2021-06-22T18%3A50%7C12712%7C2021-06-22T22%3A45%7C955%7CVIZZAUNW%7CV%7CAUECOSRHK%26carriers%3D-31940%2C-32456%26operators%3D-31940%3B-32456%3B-32456%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D1625.53%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mJJTizJEGLmeK0mxczRo6vQ0LWrjc2ISYERAI66YoEcAAAA%7C6073581085016994854%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dfalse",
+            "agent": {
+                "name": "Cathay Pacific",
+                "image": "https://s1.apideeplink.com/images/websites/cath.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Avalon",
+            "destination_station": "New York Newark",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "06:00 AM"
+            },
+            "arrival": {
+                "date": "2021-06-20",
+                "time": "05:12 PM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 1,
+                "minutes": 12
+            },
+            "number_of_stops": 2,
+            "carriers": "Jetstar",
+            "price": 1716,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Ft2au%2F1%2F9648.11442.2021-06-20%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%7C-32166%7C602%7C9648%7C2021-06-20T06%3A00%7C16692%7C2021-06-20T07%3A25%7C85%7C-%7C-%7C-%3Bflight%7C-31722%7C870%7C16692%7C2021-06-20T10%3A30%7C16216%7C2021-06-20T07%3A00%7C810%7C-%7C-%7C-%3Bflight%7C-31722%7C2304%7C16216%7C2021-06-20T08%3A45%7C11442%7C2021-06-20T17%3A12%7C327%7C-%7C-%7C-%26carriers%3D-32166%2C-31722%26operators%3D-32166%3B-31722%3B-31722%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D1716.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mIpMUosFWLmeK0mxczRo6vQ0LWrjc2ISYERALt1B7wcAAAA%7C6704392951269783953%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dtrue",
+            "agent": {
+                "name": "Travel2Be",
+                "image": "https://s1.apideeplink.com/images/websites/t2au.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "06:00 AM"
+            },
+            "arrival": {
+                "date": "2021-06-20",
+                "time": "05:42 PM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 1,
+                "minutes": 42
+            },
+            "number_of_stops": 2,
+            "carriers": "Jetstar",
+            "price": 1741,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Ft2au%2F1%2F13981.12712.2021-06-20%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%7C-32166%7C500%7C13981%7C2021-06-20T06%3A00%7C16692%7C2021-06-20T07%3A25%7C85%7C-%7C-%7C-%3Bflight%7C-31722%7C870%7C16692%7C2021-06-20T10%3A30%7C16216%7C2021-06-20T07%3A00%7C810%7C-%7C-%7C-%3Bflight%7C-31722%7C520%7C16216%7C2021-06-20T09%3A05%7C12712%7C2021-06-20T17%3A42%7C337%7C-%7C-%7C-%26carriers%3D-32166%2C-31722%26operators%3D-32166%3B-31722%3B-31722%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D1741.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mIpMUosFWLmeK0mxczRo6vQ0LWrjc2ISYERALt1B7wcAAAA%7C543505703534528385%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dtrue",
+            "agent": {
+                "name": "Travel2Be",
+                "image": "https://s1.apideeplink.com/images/websites/t2au.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "10:55 PM"
+            },
+            "arrival": {
+                "date": "2021-06-21",
+                "time": "03:15 PM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 6,
+                "minutes": 20
+            },
+            "number_of_stops": 1,
+            "carriers": "Qatar Airways",
+            "price": 1827,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Ft2au%2F1%2F13981.12712.2021-06-20%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%7C-31939%7C905%7C13981%7C2021-06-20T22%3A55%7C11089%7C2021-06-21T05%3A55%7C840%7C-%7C-%7C-%3Bflight%7C-31939%7C701%7C11089%7C2021-06-21T08%3A15%7C12712%7C2021-06-21T15%3A15%7C840%7C-%7C-%7C-%26carriers%3D-31939%26operators%3D-31939%3B-31939%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D1827.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mIpMUosFWLmeK0mxczRo6vQ0LWrjc2ISYERALt1B7wcAAAA%7C5612542219919266437%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dtrue",
+            "agent": {
+                "name": "Travel2Be",
+                "image": "https://s1.apideeplink.com/images/websites/t2au.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "06:45 PM"
+            },
+            "arrival": {
+                "date": "2021-06-22",
+                "time": "10:45 PM"
+            },
+            "total_duration": {
+                "days": 2,
+                "hours": 18,
+                "minutes": 0
+            },
+            "number_of_stops": 2,
+            "carriers": "Qantas",
+            "price": 1625.53,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fcath%2F1%2F13981.12712.2021-06-20%2Fair%2Fairli%2Fflights%3Fitinerary%3Dflight%7C-31940%7C484%7C13981%7C2021-06-20T18%3A45%7C16692%7C2021-06-20T20%3A10%7C85%7CVIZZAUNW%7CV%7CAUECOSRHK%3Bflight%7C-32456%7C100%7C16692%7C2021-06-21T14%3A15%7C12191%7C2021-06-21T21%3A30%7C555%7CVIZZAUNW%7CV%7CAUECOSRHK%3Bflight%7C-32456%7C846%7C12191%7C2021-06-22T18%3A50%7C12712%7C2021-06-22T22%3A45%7C955%7CVIZZAUNW%7CV%7CAUECOSRHK%26carriers%3D-31940%2C-32456%26operators%3D-31940%3B-32456%3B-32456%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D1625.53%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mJJTizJEGLmeK0mxczRo6vQ0LWrjc2ISYERAI66YoEcAAAA%7C5469721107862718931%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dfalse",
+            "agent": {
+                "name": "Cathay Pacific",
+                "image": "https://s1.apideeplink.com/images/websites/cath.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "06:30 PM"
+            },
+            "arrival": {
+                "date": "2021-06-22",
+                "time": "10:45 PM"
+            },
+            "total_duration": {
+                "days": 2,
+                "hours": 18,
+                "minutes": 15
+            },
+            "number_of_stops": 2,
+            "carriers": "Qantas",
+            "price": 1625.53,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fcath%2F1%2F13981.12712.2021-06-20%2Fair%2Fairli%2Fflights%3Fitinerary%3Dflight%7C-31940%7C482%7C13981%7C2021-06-20T18%3A30%7C16692%7C2021-06-20T19%3A55%7C85%7CVIZZAUNW%7CV%7CAUECOSRHK%3Bflight%7C-32456%7C100%7C16692%7C2021-06-21T14%3A15%7C12191%7C2021-06-21T21%3A30%7C555%7CVIZZAUNW%7CV%7CAUECOSRHK%3Bflight%7C-32456%7C846%7C12191%7C2021-06-22T18%3A50%7C12712%7C2021-06-22T22%3A45%7C955%7CVIZZAUNW%7CV%7CAUECOSRHK%26carriers%3D-31940%2C-32456%26operators%3D-31940%3B-32456%3B-32456%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D1625.53%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mJJTizJEGLmeK0mxczRo6vQ0LWrjc2ISYERAI66YoEcAAAA%7C-8613618078905312676%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dfalse",
+            "agent": {
+                "name": "Cathay Pacific",
+                "image": "https://s1.apideeplink.com/images/websites/cath.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "07:00 PM"
+            },
+            "arrival": {
+                "date": "2021-06-22",
+                "time": "10:45 PM"
+            },
+            "total_duration": {
+                "days": 2,
+                "hours": 17,
+                "minutes": 45
+            },
+            "number_of_stops": 2,
+            "carriers": "Qantas",
+            "price": 1625.53,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fcath%2F1%2F13981.12712.2021-06-20%2Fair%2Fairli%2Fflights%3Fitinerary%3Dflight%7C-31940%7C486%7C13981%7C2021-06-20T19%3A00%7C16692%7C2021-06-20T20%3A25%7C85%7CVIZZAUNW%7CV%7CAUECOSRHK%3Bflight%7C-32456%7C100%7C16692%7C2021-06-21T14%3A15%7C12191%7C2021-06-21T21%3A30%7C555%7CVIZZAUNW%7CV%7CAUECOSRHK%3Bflight%7C-32456%7C846%7C12191%7C2021-06-22T18%3A50%7C12712%7C2021-06-22T22%3A45%7C955%7CVIZZAUNW%7CV%7CAUECOSRHK%26carriers%3D-31940%2C-32456%26operators%3D-31940%3B-32456%3B-32456%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D1625.53%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mJJTizJEGLmeK0mxczRo6vQ0LWrjc2ISYERAI66YoEcAAAA%7C-5512220400018134558%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dfalse",
+            "agent": {
+                "name": "Cathay Pacific",
+                "image": "https://s1.apideeplink.com/images/websites/cath.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "06:30 AM"
+            },
+            "arrival": {
+                "date": "2021-06-20",
+                "time": "05:42 PM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 1,
+                "minutes": 12
+            },
+            "number_of_stops": 2,
+            "carriers": "Qantas",
+            "price": 1943,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Ft2au%2F1%2F13981.12712.2021-06-20%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%7C-31940%7C406%7C13981%7C2021-06-20T06%3A30%7C16692%7C2021-06-20T07%3A55%7C85%7C-%7C-%7C-%3Bflight%7C-31722%7C870%7C16692%7C2021-06-20T10%3A30%7C16216%7C2021-06-20T07%3A00%7C810%7C-%7C-%7C-%3Bflight%7C-31722%7C520%7C16216%7C2021-06-20T09%3A05%7C12712%7C2021-06-20T17%3A42%7C337%7C-%7C-%7C-%26carriers%3D-31940%2C-31722%26operators%3D-31940%3B-31722%3B-31722%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D1943.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mIpMUosFWLmeK0mxczRo6vQ0LWrjc2ISYERALt1B7wcAAAA%7C-2130304900292174928%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dtrue",
+            "agent": {
+                "name": "Travel2Be",
+                "image": "https://s1.apideeplink.com/images/websites/t2au.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "06:00 PM"
+            },
+            "arrival": {
+                "date": "2021-06-21",
+                "time": "10:15 AM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 6,
+                "minutes": 15
+            },
+            "number_of_stops": 2,
+            "carriers": "ANA (All Nippon Airways)",
+            "price": 2067,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Fcaut%2F1%2F13981.12712.2021-06-20%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%7C-32571%7C6402%7C13981%7C2021-06-20T18%3A00%7C16692%7C2021-06-20T19%3A25%7C85%7C-%7C-%7C-%3Bflight%7C-32571%7C880%7C16692%7C2021-06-20T20%3A55%7C12234%7C2021-06-21T05%3A30%7C575%7C-%7C-%7C-%3Bflight%7C-32571%7C110%7C12234%7C2021-06-21T10%3A20%7C12712%7C2021-06-21T10%3A15%7C775%7C-%7C-%7C-%26carriers%3D-32571%26operators%3D-31694%3B-32571%3B-32571%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dtrue%26ticket_price%3D2067.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mJJTiwtEWLmeK0mxczRo6vQ0LWrjc2ISYERAG_BpeocAAAA%7C-8943363033821650053%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dtrue",
+            "agent": {
+                "name": "Trip.com",
+                "image": "https://s1.apideeplink.com/images/websites/caut.png"
+            }
+        },
+        {
+            "origin_station": "Melbourne Tullamarine",
+            "destination_station": "New York John F. Kennedy",
+            "departure": {
+                "date": "2021-06-20",
+                "time": "06:00 AM"
+            },
+            "arrival": {
+                "date": "2021-06-20",
+                "time": "10:15 PM"
+            },
+            "total_duration": {
+                "days": 1,
+                "hours": 6,
+                "minutes": 15
+            },
+            "number_of_stops": 2,
+            "carriers": "Jetstar",
+            "price": 3207,
+            "booking_deep_link": "https://partners.api.skyscanner.net/apiservices/deeplink/v2?_cje=jzj5DawL5zJyT%2BnfeP9GJWfImnVvZd7vh0AJSObmdOp8YP07VbGmhzc%2BVTc80nUp&url=https%3A%2F%2Fwww.skyscanner.net%2Ftransport_deeplink%2F4.0%2FAU%2Fen-US%2FAUD%2Ft2au%2F1%2F13981.12712.2021-06-20%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%7C-32166%7C500%7C13981%7C2021-06-20T06%3A00%7C16692%7C2021-06-20T07%3A25%7C85%7C-%7C-%7C-%3Bflight%7C-31940%7C309%7C16692%7C2021-06-20T09%3A55%7C13416%7C2021-06-20T06%3A45%7C830%7C-%7C-%7C-%3Bflight%7C-31940%7C3103%7C13416%7C2021-06-20T13%3A30%7C12712%7C2021-06-20T22%3A15%7C345%7C-%7C-%7C-%26carriers%3D-32166%2C-31940%26operators%3D-32166%3B-32573%3B-32573%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26ticket_price%3D3207.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26q_ids%3DH4sIAAAAAAAAAOOS4mIpMUosFWLmeK0mxczRo6vQ0LWrjc2ISYERALt1B7wcAAAA%7C-8494836654002920829%7CV3%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2021-05-18T09%3A54%3A00%26pqid%3Dtrue",
+            "agent": {
+                "name": "Travel2Be",
+                "image": "https://s1.apideeplink.com/images/websites/t2au.png"
+            }
+        }
+    ]
+}
