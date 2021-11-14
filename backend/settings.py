@@ -24,7 +24,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = config('SECRET_KEY')
+SECRET_KEY = "#0n&@9r(69=*_p)0%j3-bc_8dtb*y6(krj(^!rvgdmoz*h$nd$"
+# SECRET_KEY = os.environ.get('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
@@ -157,11 +158,11 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': '<database_name>',
-        'USER': '<user_name>',
-        'PASSWORD': '<password>',
-        'HOST': 'localhost',
-        'PORT': '',
+        'NAME': 'd9acdmabn2p185',
+        'USER': 'gcmxdegrskqmtw',
+        'PASSWORD': '8a3831d1cc0bc4fb670fa88b79bf663573c6dd52e2b98513f1fb750be51f8b83',
+        'HOST': 'ec2-52-204-72-14.compute-1.amazonaws.com',
+        'PORT': '5432',
     }
 }
 
@@ -240,10 +241,14 @@ REST_FRAMEWORK = {
 SITE_ID = 2
 
 # Facebook configuration
-SOCIAL_AUTH_FACEBOOK_KEY = config('SOCIAL_AUTH_FACEBOOK_KEY')
-SOCIAL_AUTH_FACEBOOK_SECRET = config('SOCIAL_AUTH_FACEBOOK_SECRET')
-SOCIAL_AUTH_GOOGLE_PLUS_KEY = config('SOCIAL_AUTH_GOOGLE_PLUS_KEY')
-SOCIAL_AUTH_GOOGLE_PLUS_SECRET = config('SOCIAL_AUTH_GOOGLE_PLUS_SECRET')
+# SOCIAL_AUTH_FACEBOOK_KEY = config('SOCIAL_AUTH_FACEBOOK_KEY')
+# SOCIAL_AUTH_FACEBOOK_SECRET = config('SOCIAL_AUTH_FACEBOOK_SECRET')
+# SOCIAL_AUTH_GOOGLE_PLUS_KEY = config('SOCIAL_AUTH_GOOGLE_PLUS_KEY')
+# SOCIAL_AUTH_GOOGLE_PLUS_SECRET = config('SOCIAL_AUTH_GOOGLE_PLUS_SECRET')
+SOCIAL_AUTH_FACEBOOK_KEY = os.environ.get('SOCIAL_AUTH_FACEBOOK_KEY')
+SOCIAL_AUTH_FACEBOOK_SECRET = os.environ.get('SOCIAL_AUTH_FACEBOOK_SECRET')
+SOCIAL_AUTH_GOOGLE_PLUS_KEY = os.environ.get('SOCIAL_AUTH_GOOGLE_PLUS_KEY')
+SOCIAL_AUTH_GOOGLE_PLUS_SECRET = os.environ.get('SOCIAL_AUTH_GOOGLE_PLUS_SECRET')
 
 SOCIAL_AUTH_LOGIN_REDIRECT_URL = 'http://localhost:3000/'
 
